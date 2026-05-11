@@ -1,4 +1,4 @@
-# 3Piano README
+# Piano
 
 ## 專案介紹
 本程式使用 Win API 的 Beep() 函式製作簡易電子琴，  
